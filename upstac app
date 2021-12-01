@@ -1,0 +1,15 @@
+
+package org.upgrad.upstac;
+
+import org.springframework.boot.SpringApp;
+import org.springframework.boot.autoconfigure.SpringBootApp;
+
+@SpringBootApplication
+public class UpstacApp {
+
+	public static void main(String[] args) {
+		SpringApplication.run(UpstacApp.class, args);
+	}
+
+
+}
